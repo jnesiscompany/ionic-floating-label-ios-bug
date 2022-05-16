@@ -1,0 +1,7 @@
+{
+  "name": "accordion-refresh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
